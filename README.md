@@ -2,6 +2,12 @@
 
 ###
 
+<div align="left">
+  <img height="224" src="https://i.ibb.co.com/f2jW3GC/Black-and-White-Gradient-Personal-Linked-In-Banner.png"  />
+</div>
+
+###
+
 <p align="left">Welcome to my page! <br>I'm Azmir Uddin, Front End developer from  Bangladesh,  currently living in  Narayanganj, Sonaragaon</p>
 
 ###
