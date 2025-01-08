@@ -49,3 +49,31 @@
 <p align="left">✨ Creating bugs since Since the first console log! 😄<br>📚 I'm currently learning Exploring Next.js for better SEO ⚡<br>🎯 Goals: Master backend basics to become a full-stack dev<br>🎲 Fun fact: I can spend hours debugging only to find a missing semicolon! 🙈</p>
 
 ###
+
+<h2 align="left">Sosial Links</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/azmiruddin143/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/azmiruddin143_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azmiruddin-143&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azmiruddin-143&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/azmiruddin-143/azmiruddin-143/output/snake.svg" alt="Snake animation" />
+
+###
