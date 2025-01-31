@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img height="224" src="https://i.ibb.co.com/f2jW3GC/Black-and-White-Gradient-Personal-Linked-In-Banner.png"  />
+  <img height="224" src="https://i.ibb.co.com/ycRhVhDQ/Black-and-White-Gradient-Personal-Linked-In-Banner-1.png"  />
 </div>
 
 ###
@@ -61,7 +61,9 @@
   <a href="https://x.com/azmiruddin143_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/azmir-uddin-8a30a334a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
