@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img height="224" src="https://i.ibb.co.com/tMfxs9Hw/github-banner.png"  />
+  <img height="224" src="https://i.ibb.co.com/ZpzhFKvB/Black-and-Yellow-Modern-Web-Development-Linked-In-Banner.png"  />
 </div>
 
 ###
