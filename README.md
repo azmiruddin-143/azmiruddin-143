@@ -8,7 +8,19 @@
 
 ###
 
-<p align="left">Welcome to my page! <br>I'm Azmir Uddin, Front End developer from  Bangladesh,  currently living in  Narayanganj, Sonaragaon</p>
+<h1 align="left">About Me</h1>
+
+###
+
+<p align="left">I am a MERN Stack Developer and Front-End Developer with expertise in JavaScript, React, Next.js, Node.js, Express, and MongoDB. I specialize in creating high-performance, scalable web applications with a strong focus on clean code and modern UI/UX. Using Tailwind CSS, I design sleek, responsive, and visually appealing interfaces that enhance user experience. Passionate about building high-quality web solutions, I stay updated with the latest technologies to deliver the best results.</p>
+
+###
+
+<h2 align="left">Current Activities</h2>
+
+###
+
+<p align="left">📱 Experimenting with Android app development alongside web technologies! 🚀<br>📚 I'm currently learning Exploring Next.js for better SEO ⚡<br>🎯 Goals: Master backend basics to become a full-stack dev<br>🎲 Fun fact: I can spend hours debugging only to find a missing semicolon! 🙈</p>
 
 ###
 
@@ -42,14 +54,6 @@
 
 ###
 
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since Since the first console log! 😄<br>📚 I'm currently learning Exploring Next.js for better SEO ⚡<br>🎯 Goals: Master backend basics to become a full-stack dev<br>🎲 Fun fact: I can spend hours debugging only to find a missing semicolon! 🙈</p>
-
-###
-
 <h2 align="left">Sosial Links</h2>
 
 ###
@@ -78,3 +82,7 @@
 <img src="https://raw.githubusercontent.com/azmiruddin-143/azmiruddin-143/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+ 
