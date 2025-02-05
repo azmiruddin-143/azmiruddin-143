@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img height="224" src="https://i.ibb.co.com/YJZYvPT/Azmir-Uddin.png" />
+  <img height="224" src="https://i.ibb.co.com/YJZYvPT/Azmir-Uddin.png" width="100%" />
 </div>
 
 ###
