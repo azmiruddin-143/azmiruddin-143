@@ -35,13 +35,13 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 ### **Backend & Database:**
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 ## 🌐 Connect with Me
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://github.com/azmiruddin-143" target="_blank">
         <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
@@ -54,9 +54,12 @@
 </div>
 
 ## 📊 GitHub Stats
-![Azmir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azmiruddin-143&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azmiruddin-143&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azmiruddin-143&theme=dark)
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=azmiruddin-143&show_icons=true&theme=dark" alt="Azmir's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiruddin-143&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmiruddin-143&theme=dark" alt="GitHub Streak" />
+</div>
+
 
 
 
