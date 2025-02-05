@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img height="224" src="https://i.ibb.co.com/ycRhVhDQ/Black-and-White-Gradient-Personal-Linked-In-Banner-1.png"  />
+  <img height="224" src="https://i.ibb.co.com/YJZYvPT/Azmir-Uddin.png" />
 </div>
 
 ###
