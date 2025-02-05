@@ -12,9 +12,9 @@
 
 <p align="left">📱 Experimenting with Android app development alongside web technologies! 🚀<br>📚 I'm currently learning Exploring Next.js for better SEO ⚡<br>🎯 Goals: Master backend basics to become a full-stack dev<br>🎲 Fun fact: I can spend hours debugging only to find a missing semicolon! 🙈</p>
 
-<h2 align="left">🛠 Skills & Tech Stack</h2>
+<h1 align="left">🛠 Skills & Tech Stack</h1>
 
-<h3 align="left">Frontend:</h3>
+<h2 align="left">Frontend:</h2>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<h3 align="left">Backend & Database:</h3>
+<h2 align="left">Backend & Database:</h2>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
